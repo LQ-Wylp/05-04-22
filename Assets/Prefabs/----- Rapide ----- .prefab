@@ -542,7 +542,7 @@ MonoBehaviour:
   _MoveActive: 1
   _Move: {x: 0, y: 0}
   _RotateSpeed: 0
-  _Acceleration: 65
+  _Acceleration: 68
   _Friction: 10
   _GravityPower: 1.5
 --- !u!114 &1838343759922832557
@@ -558,7 +558,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MaxHealth: 7.5
-  BonusHpByUpgradeDifficulte: 3
+  BonusHpByUpgradeDifficulte: 4
   Exp: {fileID: 3674046066919147502, guid: 41b26e33cd3f69d43a5d9953d54f47dc, type: 3}
   Aimant: {fileID: 1355546752129266836, guid: 243848bd6a698e04497124ef4ea9ab95, type: 3}
   Heal: {fileID: 4900203519897614972, guid: d912db24a2afdbd49abfde295efa1e02, type: 3}
