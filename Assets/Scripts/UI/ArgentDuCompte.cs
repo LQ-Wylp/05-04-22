@@ -10,6 +10,6 @@ public class ArgentDuCompte : MonoBehaviour
 
     void Update()
     {
-        TextArgent.text = ": " + Argents;
+        TextArgent.text = "Money : " + Argents;
     }
 }

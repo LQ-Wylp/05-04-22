@@ -43,7 +43,7 @@ public class HpSystemMonster : MonoBehaviour
             {
                 Instantiate(Aimant, transform.position, Quaternion.identity);
             }
-            if(rand < 2)
+            if(rand == 75)
             {
                 Instantiate(Heal, transform.position, Quaternion.identity);
             }

@@ -8,7 +8,7 @@ public class Heal : MonoBehaviour
     {
         if(other.tag == "Player")
         {
-            other.gameObject.GetComponent<HpSystemPlayer>().HealPlayer(25);
+            other.gameObject.GetComponent<HpSystemPlayer>().HealPlayer(7);
             Destroy(gameObject);
         }
     }
