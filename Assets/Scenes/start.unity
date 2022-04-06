@@ -2505,12 +2505,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CoutByAmelioration: 50
-  CoefAugmentation_Hp: 0.1
+  CoefAugmentation_Hp: 0.03
   textCoutHp: {fileID: 1647198168}
   textCoutHp_info: {fileID: 487467911}
-  CoefAugmentation_Degat: 0.1
+  CoefAugmentation_Degat: 0.03
   textCoutDegat: {fileID: 630410458}
   textCoutDegat_info: {fileID: 2061093007}
-  CoefAugmentation_Exp: 0.1
+  CoefAugmentation_Exp: 0.03
   textCoutExp: {fileID: 957249545}
   textCoutExp_info: {fileID: 391278924}
